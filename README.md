@@ -9,4 +9,4 @@
 [3]: https://twitter.com/yash_killerboy
 
 #
-[![Yash Patel's github stats](https://github-readme-stats.yashpatel2911.vercel.app/api?username=yashpatel2911&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Yash Patel's github stats](https://github-readme-stats.vercel.app/api?username=yashpatel2911&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
