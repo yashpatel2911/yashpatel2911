@@ -7,6 +7,3 @@
 [1]: https://www.linkedin.com/in/yashpatel2911/
 [2]: https://public.tableau.com/profile/yashpatel2911/
 [3]: https://twitter.com/yash_killerboy
-
-#
-[![Yash Patel's github stats](https://github-readme-stats.vercel.app/api?username=yashpatel2911&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
